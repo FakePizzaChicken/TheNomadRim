@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/TheNomadRim.csproj
+/TheNomadRim.csproj.user
+/TheNomadRim.sln
+/.vs/TheNomadRim
+/obj
+/Properties
